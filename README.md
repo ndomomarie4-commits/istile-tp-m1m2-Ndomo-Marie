@@ -7,3 +7,5 @@ Il contient une page web responsive, des statistiques calculées en JavaScript s
 et un chargement de données depuis l'API publique dummyjson.com.
 
 Commande de lancement : npm start
+
+Remarque : les trois scénarios API s'exécutent hors ligne grâce à simulerFetch (outils/simulerFetch.js).
